@@ -342,3 +342,4 @@ kompleks.
 - Visualisasi: [ANN](https://playground.tensorflow.org/)
 - Visualisasi: [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 - Code: [Malaria](https://colab.research.google.com/drive/1jQ3NObFqafI3jWGLDTV1Ca8bXIGPVlL_?usp=sharing)
+- [Pengumpulan Magang 1](https://forms.gle/DceSF85ZPad1Jj3Y6)
