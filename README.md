@@ -1,5 +1,4 @@
 <h1 align="center"> Image Classification </h1>
----
 
 ## A. Definisi Artificial Intelligence, Machine Learning, dan Deep Learning
 
